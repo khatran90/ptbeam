@@ -8,7 +8,7 @@ st.caption("Conventions: SS EN 1992 / UK NA")
 st.markdown("---")
 
 # 2. TẠO THANH SIDEBAR NHẬP SỐ LIỆU ĐỘNG (INPUTS)
-st.sidebar.header("📊 DESIGN INPUTS")
+st. sidebar.header("📊 DESIGN INPUTS")
 
 with st.sidebar.expander("📐 Geometry & Span", expanded=True):
     L = st.number_input("Span length L (m)", value=17.8, step=0.1)
