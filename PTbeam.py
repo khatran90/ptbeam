@@ -3,7 +3,7 @@ import math
 
 # 1. CẤU HÌNH GIAO DIỆN WEB
 st.set_page_config(page_title="EC2 Post-Tensioned Beam", layout="wide")
-st.title("🌉 Post-Tensioned Simply-Supported Transfer Beam — EC2")
+st.title("🌉 Post-Tensioned Simply-Supported Transfer Beam — EC2 by TW-ASIA")
 st.caption("Conventions: SS EN 1992 / UK NA")
 st.markdown("---")
 
